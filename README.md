@@ -13,7 +13,7 @@
 - 🌐 Building modern web experiences with **HTML, CSS, JS**  
 - 🚀 Exploring **MERN Stack** & **AI Integrations**  
 - ✨ Passionate about **Glowing UI Themes & Smooth Animations**  
-- 💼 Here's my [Portfolio](https://sivakumar330.web.app/)  
+- 💼 Here's my [Portfolio](https://devzone-4e0a7.web.app/) 
 - 📬 Connect: [LinkedIn](https://www.linkedin.com/in/sivakumar330/) | [Instagram](https://www.instagram.com/sivakumar._/)
 
 ---
