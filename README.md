@@ -1,6 +1,6 @@
 <!-- Animated GitHub Profile README -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFF9&center=true&vCenter=true&width=500&lines=Hi+I'm+S.+Sivakumar!;Front-End+Developer+💻;UI%2FUX+Designer+🎨;MERN+Stack+Learner+🚀;Always+Learning+New+Things!+🔥" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+S.+Sivakumar;Front-End+Developer;UI%2FUX+Designer;Creating+Amazing+UI+Effects+✨" />
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌐 Building modern web experiences with **HTML, CSS, JS, React, Node.js**  
+- 🌐 Building modern web experiences with **HTML, CSS, JS**  
 - 🚀 Exploring **MERN Stack** & **AI Integrations**  
 - ✨ Passionate about **Glowing UI Themes & Smooth Animations**  
 - 💼 Here's my [Portfolio](https://sivakumar330.web.app/)  
@@ -29,13 +29,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sivakumar330&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivakumar330&theme=radical" height="180em" />
-</p>
-
----
-
-### 🏆 Achievements & Activity
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sivakumar330&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -77,7 +70,5 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+S.+Sivakumar;Front-End+Developer;UI%2FUX+Designer;MERN+Stack+Learner;Creating+Amazing+UI+Effects+✨" />
-</h1>
+
 
