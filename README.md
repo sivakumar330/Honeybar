@@ -47,28 +47,11 @@
 
 ---
 
-### 🌠 Dynamic Banner
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/stars.gif" width="800" height="250" />
-</p>
 
----
 
 ### 💫 Visitor Count
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sivakumar330&style=for-the-badge&color=blueviolet" alt="profile views" />
-</p>
-
----
-
-<h3 align="center">✨ Keep Coding. Keep Creating. Keep Glowing. ✨</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/fire.gif" width="100%" height="250" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 
