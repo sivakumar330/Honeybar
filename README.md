@@ -77,4 +77,7 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+S.+Sivakumar;Front-End+Developer;UI%2FUX+Designer;MERN+Stack+Learner;Creating+Amazing+UI+Effects+✨" />
+</h1>
 
