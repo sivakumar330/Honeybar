@@ -31,7 +31,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivakumar330&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" width="600" height="400"/>
 </p>
+
 ---
+
 ### 𝐃𝐞𝐯 𝐒𝐭𝐚𝐭𝐬
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sivakumar330?ext=contest&theme=dark" />
