@@ -7,7 +7,7 @@
 
 
 
-### ᴀʙᴏᴜᴛ ᴍᴇ   𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+### 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 - 🌐 Building modern web experiences with **HTML, CSS, JS**  
 - 🚀 Exploring **MERN Stack** & **AI Integrations**  
 - ✨ Passionate about **Glowing UI Themes & Smooth Animations**  
@@ -16,14 +16,14 @@
 
 ---
 
-### ⚡ Tech Stack
+###  𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma,git,github,vscode,firebase" />
 </p>
 
 ---
 
-### 🚀 GitHub Stats
+### 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sivakumar330&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivakumar330&theme=radical" height="180em" />
@@ -32,14 +32,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivakumar330&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" width="600" height="400"/>
 </p>
 ---
-### 💻 LeetCode & Dev Stats
+### 𝐃𝐞𝐯 𝐒𝐭𝐚𝐭𝐬
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sivakumar330?ext=contest&theme=dark" />
 </p>
 
 ---
 
-### 🌈 Contribution Snake
+### 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐒𝐧𝐚𝐤𝐞
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
