@@ -54,9 +54,21 @@
 
 
 
-### 💫 Visitor Count
+### 𝐕𝐢𝐬𝐢𝐭𝐨𝐫 𝐂𝐨𝐮𝐧𝐭
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sivakumar330&style=for-the-badge&color=blueviolet" alt="profile views" />
+</p>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivakumar330&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=false" alt="Siva's GitHub stats" />
+</p>
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar330&layout=compact&hide_border=false&theme=default" alt="Top Languages" />
+</p>
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=sivakumar330&theme=github&hide_border=false&area=true" alt="Contribution Graph" />
 </p>
 
 
