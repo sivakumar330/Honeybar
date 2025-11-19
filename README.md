@@ -8,11 +8,11 @@
 
 
 ### 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
-- 🌐 Building modern web experiences with **HTML, CSS, JS**  
-- 🚀 Exploring **MERN Stack** & **AI Integrations**  
-- ✨ Passionate about **Glowing UI Themes & Smooth Animations**  
-- 💼 Here's my [Portfolio](https://devzone-4e0a7.web.app/) 
-- 📬 Connect: [LinkedIn](https://www.linkedin.com/in/sivakumar330/) | [Instagram](https://www.instagram.com/sivakumar._/)
+- 🌐 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚖𝚘𝚍𝚎𝚛𝚗 𝚠𝚎𝚋 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 𝚠𝚒𝚝𝚑 **HTML, CSS, JS**  
+- 🚀 𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 **MERN Stack** & **AI Integrations**  
+- ✨ 𝙿𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚊𝚋𝚘𝚞𝚝 **Glowing UI Themes & Smooth Animations**  
+- 💼 𝙷𝚎𝚛𝚎'𝚜 𝚖𝚢 [𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘](https://devzone-4e0a7.web.app/) 
+- 📬 𝙲𝚘𝚗𝚗𝚎𝚌𝚝: [𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗] (https://www.linkedin.com/in/sivakumar330/)| 
 
 ---
 
