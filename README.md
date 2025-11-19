@@ -37,7 +37,7 @@
 
 ---
 
-## 𝚀𝚞𝚘𝚝𝚎 𝚘𝚏 𝚝𝚑𝚎 𝙳𝚊𝚢
+### 𝐐𝐮𝐨𝐭𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐃𝐚𝐲
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
