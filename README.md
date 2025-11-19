@@ -37,6 +37,13 @@
 
 ---
 
+## 𝚀𝚞𝚘𝚝𝚎 𝚘𝚏 𝚝𝚑𝚎 𝙳𝚊𝚢
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
 ### 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐒𝐧𝐚𝐤𝐞
 <p align="center">
   <picture>
@@ -52,11 +59,7 @@
 
 
 
-## 𝚀𝚞𝚘𝚝𝚎 𝚘𝚏 𝚝𝚑𝚎 𝙳𝚊𝚢
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
 
 
 
