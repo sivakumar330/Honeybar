@@ -7,7 +7,7 @@
 
 
 
-### ᴀʙᴏᴜᴛ ᴍᴇ
+### ᴀʙᴏᴜᴛ ᴍᴇ   𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 - 🌐 Building modern web experiences with **HTML, CSS, JS**  
 - 🚀 Exploring **MERN Stack** & **AI Integrations**  
 - ✨ Passionate about **Glowing UI Themes & Smooth Animations**  
