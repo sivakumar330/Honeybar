@@ -28,9 +28,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sivakumar330&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivakumar330&theme=radical" height="180em" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivakumar330&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" width="600" height="400"/>
+</p>
 ---
-
 ### 💻 LeetCode & Dev Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sivakumar330?ext=contest&theme=dark" />
