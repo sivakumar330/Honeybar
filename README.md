@@ -1,13 +1,11 @@
 <!-- Animated GitHub Profile README -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+I'm+S.+Sivakumar;Front-End+Developer;UI%2FUX+Designer;Creating+Amazing+UI+Effects+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=700&color=00C2FF&center=true&vCenter=true&width=680&lines=S.+Sivakumar;Frontend+Engineer;UI%2FUX+Designer;Animation+Enthusiast" />
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/retro-wave.gif" width="100%" height="250" />
-</p>
 
----
+
+
 
 ### 👨‍💻 About Me  
 - 🌐 Building modern web experiences with **HTML, CSS, JS**  
@@ -59,6 +57,3 @@
 </p>
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=700&color=00C2FF&center=true&vCenter=true&width=680&lines=S.+Sivakumar;Frontend+Engineer;UI%2FUX+Designer;Animation+Enthusiast" />
-</h1>
