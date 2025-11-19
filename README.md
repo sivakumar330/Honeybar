@@ -50,9 +50,12 @@
 
 
 
-### 𝐕𝐢𝐬𝐢𝐭𝐨𝐫 𝐂𝐨𝐮𝐧𝐭
+
+
+## 𝚀𝚞𝚘𝚝𝚎 𝚘𝚏 𝚝𝚑𝚎 𝙳𝚊𝚢
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sivakumar330&style=for-the-badge&color=blueviolet" alt="profile views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 
